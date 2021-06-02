@@ -25,7 +25,7 @@ requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495
 ruamel-yaml==0.15.80
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1591181521996/work
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.23
 Werkzeug==1.0.1
 zipp==3.1.0
